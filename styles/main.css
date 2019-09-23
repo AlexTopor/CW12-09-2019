@@ -1,0 +1,106 @@
+.sky {
+    height: 462px;
+    background: #b9d6ef;
+}
+.horizon-1 {
+    height: 3px;
+    background: #ddecfa;
+}
+.horizon-2 {
+    height: 9px;
+    background: #327dad;
+}
+
+.sea {
+    height: 332px;
+    background: #266b97;
+    }
+
+h1 {
+    font-size: 60px;
+    color: #ffffff;
+    text-shadow: 5px 5px 2px gray;
+    
+}
+.text {
+    color: #266b97;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: -50px;
+    
+}
+.subscribe {
+    width: 120px;
+	height: 35px;
+	border-radius: 5px;
+}
+.clouds {
+    
+    margin: auto;
+    text-align: center; 
+}
+.ice {
+ 
+text-align: center;
+    margin-left: 60px;
+    margin-top: -20px;
+}
+.days {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background: #b9d6ef;
+    color: #266b97;
+    text-align: center;
+    padding-top: 22px;
+    box-sizing: border-box;
+    font-size: 26px;
+    display: inline-block;
+    margin-top: 52px;
+    margin-left: 362px;
+    margin-right: 42px;
+}
+
+.hours {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background: #b9d6ef;
+    color: #266b97;
+    text-align: center;
+    padding-top: 22px;
+    box-sizing: border-box;
+    font-size: 26px;
+    display: inline-block;
+    margin-top: 52px;
+        margin-right: 42px;
+}
+.mins {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background: #b9d6ef;
+    color: #266b97;
+    text-align: center;
+    padding-top: 22px;
+    box-sizing: border-box;
+    font-size: 26px;
+    display: inline-block;
+    margin-top: 52px;
+        margin-left: 10px;
+}
+.email{
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+}
+.podpis {
+    color: white;
+    text-align: center;
+}
+.ship {
+    margin-top: -347px;
+    margin-left: 290px;
+}
